@@ -1,0 +1,38 @@
+body {
+    font-family: "Open Sans", sans-serif;
+}
+
+pre {
+    font-family: "Open Sans", sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: 'Ramabhadra', sans-serif;
+}
+
+header h1 {
+color: black
+}
+
+.navbar {
+    background-color: black;
+    text: white;
+}
+
+.jumbotron {
+    margin: 0;
+    padding: 0px;
+    background-color: white;
+}
+
+.row-content {
+    padding: 50px 0;
+    border-bottom: 1px ridge;
+    min-height: 200px;
+}
+
+.site-footer {
+    background-color: black;
+    text: white;
+    padding:  20px;
+}
